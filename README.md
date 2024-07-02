@@ -1,2 +1,2 @@
 # files
-repo for misc files
+repo fot storing files for programs and other stuff  
