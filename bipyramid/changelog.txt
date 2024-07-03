@@ -1,0 +1,4 @@
+0.1 Changelog
+	Polyhedron library (only regular and archimedean right now)
+	Console
+	Automatic updates
